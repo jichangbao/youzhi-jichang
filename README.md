@@ -18,7 +18,7 @@
 | 6 | **二猫云** | IEPL 专线 | ¥89/年 (60GB/月) | ¥20/月 (130GB) | `ermao888` | [直达官网](https://youzhijichang.blog/go/ermao-yun/) |
 | 7 | **Firefly** | IPLC 专线 | ¥96/年 (60GB/月) | ¥25/月 (150GB) | `firefly` (8折) | [直达官网](https://youzhijichang.blog/go/firefly/) |
 | 8 | **宇宙云** | IEPL/IPLC 专线 | ¥96/年 (60GB/月) | ¥25/月 (160GB) | `YUZHOU553` (8折) | [直达官网](https://youzhijichang.blog/go/yuzhou-yun/) |
-| 9 | **无忧** | IPLC 专线 | ¥79/年 (40GB/月) | ¥19/月 (100GB) | `wuyou` | [直达官网](https://youzhijichang.blog/go/wuyou/) |
+| 9 | **无忧** | IPLC 专线 | ¥79/年 (50GB/月) | ¥25/月 (160GB) | `wuyou` | [直达官网](https://youzhijichang.blog/go/wuyou/) |
 | 10 | **光速云** | IPLC 专线 | ¥99/年 (59GB/月) | ¥23/月 (138GB) | `AMM` (8折) | [直达官网](https://youzhijichang.blog/go/guangsu-yun/) |
 | 11 | **星岛梦** | IPLC 专线 | ¥96/年 (60GB/月) | ¥25/月 (150GB) | `nmw888` | [直达官网](https://youzhijichang.blog/go/xingdaomeng/) |
 | 12 | **唯兔云** | IEPL/IPLC 专线 | ¥79.9/年 (45GB/月) | ¥19.9/月 (150GB) | `rabbit` | [直达官网](https://youzhijichang.blog/go/weitu-yun/) |
